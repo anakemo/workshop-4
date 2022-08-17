@@ -1,0 +1,210 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    overflow: hidden;
+   
+
+
+}
+
+nav{
+    background-color:rgba(196, 196, 196, 1);
+    width: 1440px;
+    height: 100px;
+    padding-top: 67px;
+    padding-right: 858px;
+    padding-left: 37px;
+    padding-bottom: 59px;
+    font-size: 20px;
+    float: lefts;
+    
+
+}
+.ol{
+    height: 24px;
+    width: 545px;
+    background-color:rgba(196, 196, 196, 1);
+}
+
+.poto1{
+    width: 1440px;
+    height: 400px;
+    background-color: blue;
+}
+.pirveli{
+    width: 100%;
+    height: 100%;
+}
+.box{
+    height: 348px;
+    width: 480px;
+    float: left;
+    background-color: rgb(224, 171, 71);
+   margin-bottom: 93px;
+
+
+}
+.picart1{
+    height: 200px;
+    width: 480px;
+
+}
+
+.disorder{
+    /* height: 100%; */
+    width: 100%;
+}
+
+
+.p1{
+    width: 480px;
+    height: 148px;
+
+
+}
+.p2{
+    width: 480px;
+    height: 148px;
+}
+.p3{
+    width: 480px;
+    height: 148px;
+}
+
+
+.picart2{
+    height: 200px;
+    width: 480px;
+
+}
+.yoga{
+    height: 100%;
+    width: 100%;
+}
+.picart3{
+    height: 200px;
+    width: 480px;
+
+}
+.meditation{
+    
+        height: 100%;
+        width: 100%;
+    
+}
+
+
+
+   /* page2 */
+
+
+.page2body{
+    width: 1371px;
+    height: 341px;
+    background-color:rgb(212, 153, 64);
+
+}
+
+.satauri2{
+    margin-top: 41px;
+    margin-left: 63px;
+}
+.page2image{
+    width: 457px;
+    height: 200px;
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 391px;
+    background-color: antiquewhite;
+}
+.disorderpageimage{
+    height: 100%;
+    width: 100%;
+}
+
+.disorderarticle{
+    color: black;
+    font-size: 14px;
+    width: 1371px;
+    height: 324px;
+    background-color:rgb(212, 153, 64);
+
+}
+
+                         /* page3 */
+
+                         
+.page3body{
+    width: 1371px;
+    height: 341px;
+    background-color:rgb(212, 153, 64);
+
+}
+
+.satauri3{
+    margin-top: 41px;
+    margin-left: 63px;
+}
+.page2image{
+    width: 457px;
+    height: 200px;
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 391px;
+    background-color: antiquewhite;
+}
+.yogapageimage{
+    height: 100%;
+    width: 100%;
+}
+
+.yogaarticle{
+    color: black;
+    font-size: 14px;
+    width: 1371px;
+    height: 324px;
+    background-color:rgb(212, 153, 64);
+
+
+}
+
+/* page4 */
+
+
+                         
+.page4body{
+    width: 1371px;
+    height: 341px;
+    background-color:rgb(212, 153, 64);
+
+}
+
+.satauri4{
+    margin-top: 41px;
+    margin-left: 63px;
+}
+.page2image{
+    width: 457px;
+    height: 200px;
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 391px;
+    background-color: antiquewhite;
+}
+.medipageimage{
+    height: 100%;
+    width: 100%;
+}
+
+.mediarticle{
+    color: black;
+    font-size: 14px;
+    width: 1371px;
+    height: 324px;
+    background-color:rgb(212, 153, 64);
+
+}
+
+
